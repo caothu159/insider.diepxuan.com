@@ -1,0 +1,3 @@
+[submodule "web/app/themes/xkld"]
+	path = web/app/themes/xkld
+	url = git@github.com:caothu159/wp-xkld.git
